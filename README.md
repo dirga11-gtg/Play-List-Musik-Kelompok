@@ -1,7 +1,7 @@
 # Play-List-Musik-Kelompok
-- Dode  (2501010109)
-- Manik (2501010107)
-- Dirga (2501010116)
+- Dode
+- Manik
+- Dirga
 
 # Linked List pada Playlist Musik
 # 1. Apa itu Linked List?
